@@ -1,4 +1,4 @@
-import avatar from './images/avatar.png';
+import avatar from './images/Foto.jpg';
 
 const ResumeData = {
   myName: '<Your Name Here>',
@@ -7,7 +7,7 @@ const ResumeData = {
 
   tabLabels: ['Skills','Experience'],
   
-  profileSummary: `<Brief overview of what you bring to the table>`,
+  profileSummary: `University of Bayreuth undergraduate and just a boy trying his best at everything he does `,
   
   buttonList: [
     {
